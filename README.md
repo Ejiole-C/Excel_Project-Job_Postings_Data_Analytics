@@ -138,6 +138,7 @@ This enables evidence-based career planning and highlights how location and role
 # Analysis Report  
 ## Summary
 This comprehensive analytical study investigates the data science employment landscape, focusing on compensation structures, skill requirements, and geographical salary distributions. Through systematic quantitative analysis of real-world job market data, this research identifies key determinants of compensation levels and establishes correlations between technical competencies and earning potential within the data science domain.  
+The Final analysis report is in [Part_2-Analysis](https://github.com/Ejiole-C/Excel_Project-Job_Postings_Data_Analytics/tree/main/Part_2-Analysis)
 
 ### Research Objectives  
 This investigation addresses four critical research questions designed to provide actionable intelligence on the data science job market:  
