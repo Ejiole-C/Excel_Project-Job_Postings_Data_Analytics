@@ -235,14 +235,14 @@ A reusable calculated measure was created for median salary computation:
 Median Salary := MEDIAN(data_jobs_all[salary_year_avg])  
 ***  
 ### Comparative Geographic Analysis  
-#### Key Findings
+#### 💡 Key Findings
 
 **Premium for Senior Technical Roles:** Senior Data Engineer and Data Scientist positions command elevated median compensation in both domestic (US) and international markets, reflecting global demand for advanced analytical expertise.  
 **Geographic Compensation Differential:** Substantial salary variance exists between US and non-US markets, particularly pronounced in high-specialization technical roles. This disparity correlates with the concentration of technology sector organizations and venture capital investment within the United States.  
 
 ![Insight_2](https://github.com/Ejiole-C/Excel_Project-Job_Postings_Data_Analytics/blob/main/Resources/Insight_2.PNG)
 
-#### Strategic Implications  
+#### 🤔 Strategic Implications  
 These geographic compensation insights provide critical intelligence for both career planning and organizational talent acquisition strategies. Understanding regional compensation benchmarks enables data professionals to optimize location decisions and empowers organizations to structure competitive compensation packages aligned with market dynamics.  
 
 ## Analysis 3: Market-Dominant Technical Competencies (What are the top skills of data professionals?)  
@@ -264,14 +264,14 @@ The Power Pivot management interface facilitated data model refinement, measure 
 ![Power_pivot_menu](https://github.com/Ejiole-C/Excel_Project-Job_Postings_Data_Analytics/blob/main/Resources/Power_pivot_menu.PNG)  
 
 ### Skills Frequency Analysis  
-#### Key Findings  
+#### 💡 Key Findings  
 
 **Foundational Language Dominance:** SQL and Python demonstrate overwhelming market prevalence across data-centric roles, confirming their status as essential competencies for data manipulation, transformation, and analytical programming.  
 **Cloud Infrastructure Emergence:** Cloud platforms including AWS (Amazon Web Services) and Azure exhibit significant market penetration, reflecting the industry-wide migration toward distributed computing architectures, scalable data storage solutions, and cloud-native analytics platforms.
 
 ![Insight_3](https://github.com/Ejiole-C/Excel_Project-Job_Postings_Data_Analytics/blob/main/Resources/Insight_3.PNG)  
 
-#### Strategic Implications  
+#### 🤔 Strategic Implications  
 The prevalence distribution of technical skills provides directional guidance for professional development roadmaps and curriculum design. Data professionals must prioritize core competencies (SQL, Python) while simultaneously developing proficiency in emerging cloud technologies to maintain competitive positioning in the talent marketplace.  
 
 ## Analysis 4: Skill-Based Compensation Analysis (What’s the pay of the top 10 skills?)  
@@ -290,14 +290,14 @@ Diamond marker styling for skill likelihood trajectory
 Color-coded series for metric differentiation
 
 ### Compensation-Skill Value Analysis  
-#### Key Findings  
+#### 💡 Key Findings  
 
 High-Value Technical Skills: Python, Oracle, and SQL command the highest median compensation levels, signaling their critical importance in high-value technical positions and their direct correlation with specialized data engineering and analytics roles.
 Low-Specialization Skill Gap: Generalist productivity tools (PowerPoint, Word) demonstrate both minimal median compensation and low market likelihood, indicating limited differentiation value and reduced demand in specialized, high-compensation segments.
 
 ![Insight_4](https://github.com/Ejiole-C/Excel_Project-Job_Postings_Data_Analytics/blob/main/Resources/Insight_4.PNG)  
 
-#### Strategic Implications  
+#### 🤔 Strategic Implications  
 This analysis quantifies the return on investment for technical skill acquisition. The data unambiguously demonstrates that proficiency in programming languages (Python, SQL) and database technologies (Oracle) yields substantial compensation premiums. Professionals seeking to maximize earning potential should strategically allocate learning investments toward these high-value competencies rather than general-purpose business tools.  
 
 ## Conclusions and Recommendations  
